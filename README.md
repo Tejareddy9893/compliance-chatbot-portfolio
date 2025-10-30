@@ -1,4 +1,4 @@
-# compliance-chatbot-portfolio
+
 # Chatbot-Powered Compliance Query Assistant
 
 A portfolio project that blends GRC, healthcare analytics, and AI/ML — built to simulate a smart chatbot that answers compliance-related queries and optionally integrates with ServiceNow.
