@@ -94,4 +94,4 @@ Let me know when you’re ready for your LinkedIn post — I’ll help you write
 
 
 
-<img width="1525" height="678" alt="image" src="https://github.com/user-attachments/assets/7b5904e1-d672-4c46-8cc8-62ca4cb9a231" />
+![Dashboard Preview](assets/risk score.png)
