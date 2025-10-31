@@ -1,0 +1,6 @@
+control,description
+Security,"Protects against unauthorized access to systems and data."
+Availability,"Ensures systems are available for operation and use as committed or agreed."
+Processing Integrity,"Ensures system processing is complete, valid, accurate, timely, and authorized."
+Confidentiality,"Protects information designated as confidential from unauthorized disclosure."
+Privacy,"Addresses collection, use, retention, disclosure, and disposal of personal information."

@@ -1,0 +1,17 @@
+[
+  {
+    "scenario": "Unauthorized access to patient records",
+    "impact": "Violation of HIPAA Privacy Rule, potential fines, loss of trust",
+    "mitigation": "Implement role-based access controls and audit logging"
+  },
+  {
+    "scenario": "Unencrypted data transmission",
+    "impact": "Exposure of PHI during transit, breach notification required",
+    "mitigation": "Use TLS encryption and secure VPN tunnels"
+  },
+  {
+    "scenario": "Third-party vendor breach",
+    "impact": "Business associate liability, reputational damage",
+    "mitigation": "Conduct regular vendor risk assessments and enforce BAAs"
+  }
+]
