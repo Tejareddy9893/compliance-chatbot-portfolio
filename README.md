@@ -5,26 +5,26 @@ This project tackles a real-world challenge in governance, risk, and compliance 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **Semantic Search**  
+- **Semantic Search**  
   Embedding-based matching for HIPAA/SOC2 questions using SentenceTransformers + FAISS
 
-- 🧠 **Risk Scoring Engine**  
+- **Risk Scoring Engine**  
   Detects high-risk queries (e.g., bias, breach, transfer) and assigns dynamic scores
 
-- 🛠️ **ServiceNow Simulation**  
+- **ServiceNow Simulation**  
   Creates mock tickets and retrieves KB articles based on query context
 
-- 📊 **Power BI Dashboard**  
+- **Power BI Dashboard**  
   Visualizes real-time compliance events, risk trends, and ticket activity
 
-- 🗂️ **Modular Architecture**  
+- **Modular Architecture**  
   Clean separation of UI, logic, and mock APIs for scalability
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer        | Tools Used                                      |
 |--------------|--------------------------------------------------|
@@ -37,12 +37,12 @@ This project tackles a real-world challenge in governance, risk, and compliance 
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 compliance-risk-monitor/ ├── app/               # Streamlit UI + logic │   ├── main.py │   ├── semantic.py │   ├── risk_engine.py │   └── logger.py ├── service_now/       # Mock ServiceNow API │   ├── init.py │   └── mock_api.py ├── data/              # FAQ, risk logs, chatbot logs │   ├── hipaa_faq.csv │   ├── ai_risk_log.csv │   └── compliance_logs.csv ├── powerbi/           # Dashboard file (.pbix) ├── requirements.txt   # Python dependencies
 
 ---
 
-## 🧪 Demo Queries
+## Demo Queries
 
 Try these in the chatbot:
 - “What is HIPAA?”
@@ -52,7 +52,7 @@ Try these in the chatbot:
 - “Flag model bias in EU”
 
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ```bash
 # Clone the repo
@@ -67,14 +67,14 @@ streamlit run app/main.py
 
 
 
-🧭 Future Enhancements
-- 🔗 Real ServiceNow API integration
-- 🌍 Cross-border compliance logic (GDPR, HIPAA, etc.)
-- 📈 Live data streaming via Azure Monitor or AWS CloudWatch
-- 🧠 LLM-based policy summarization
-- 🧮 Power BI integration with real-time data sources
+Future Enhancements
+- Real ServiceNow API integration
+- Cross-border compliance logic (GDPR, HIPAA, etc.)
+- Live data streaming via Azure Monitor or AWS CloudWatch
+- LLM-based policy summarization
+- Power BI integration with real-time data sources
 
-🙋 About the Author
+� About the Author
 Built by Saiteja, Strategic Data Consultant & BI Specialist with expertise in GRC, healthcare analytics, and AI/ML integration. Passionate about building enterprise-grade solutions that blend compliance, intelligence, and impact.
 
 
