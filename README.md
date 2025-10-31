@@ -51,15 +51,6 @@ Try these in the chatbot:
 - “Create a compliance incident”
 - “Flag model bias in EU”
 
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](link-to-screenshot.png)
-
-Or [View Live Dashboard](https://app.powerbi.com/links/YOUR_DASHBOARD_LINK)
-
----
 
 ## ⚙️ How to Run Locally
 
