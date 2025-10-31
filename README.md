@@ -92,3 +92,6 @@ Built by Saiteja, Strategic Data Consultant & BI Specialist with expertise in GR
 Let me know when you’re ready for your LinkedIn post — I’ll help you write a high-impact announcement that showcases this project to recruiters and peers. You're building a portfolio that truly stands out!
 
 
+
+
+<img width="1525" height="678" alt="image" src="https://github.com/user-attachments/assets/7b5904e1-d672-4c46-8cc8-62ca4cb9a231" />
