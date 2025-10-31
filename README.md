@@ -87,11 +87,4 @@ streamlit run app/main.py
 Built by Saiteja, Strategic Data Consultant & BI Specialist with expertise in GRC, healthcare analytics, and AI/ML integration. Passionate about building enterprise-grade solutions that blend compliance, intelligence, and impact.
 
 
----
-
-Let me know when you’re ready for your LinkedIn post — I’ll help you write a high-impact announcement that showcases this project to recruiters and peers. You're building a portfolio that truly stands out!
-
-
-
-
 ![Dashboard Preview](assets/risk score.png)
