@@ -38,7 +38,7 @@ This project tackles a real-world challenge in governance, risk, and compliance 
 ---
 
 ## Folder Structure
-compliance-risk-monitor/ ├── app/               # Streamlit UI + logic │   ├── main.py │   ├── semantic.py │   ├── risk_engine.py │   └── logger.py ├── service_now/       # Mock ServiceNow API │   ├── init.py │   └── mock_api.py ├── data/              # FAQ, risk logs, chatbot logs │   ├── hipaa_faq.csv │   ├── ai_risk_log.csv │   └── compliance_logs.csv ├── powerbi/           # Dashboard file (.pbix) ├── requirements.txt   # Python dependencies
+you can find the folder structure in the project homepage
 
 ---
 
